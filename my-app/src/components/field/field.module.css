@@ -1,0 +1,12 @@
+.btn {
+	width: 90px;
+	height: 90px;
+	background-color: lightcyan;
+	cursor: pointer;
+	border: outset;
+	font-size: x-large;
+}
+
+.field {
+	display: contents;
+}
